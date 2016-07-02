@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/home/pi/Development/FreePascal/fpc/bin/fpc" Date="1449160366"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -Fi/home/pi/Desktop/Lazarus_WiringPi_Projects/PhotoCell/lib/arm-linux -Fl/opt/gnome/lib -Fu/home/pi/Desktop -Fu/home/pi/Desktop/Lazarus_WiringPi_Projects -Fu/home/pi/Development/FreePascal/lazarus/components/lazcontrols/lib/arm-linux/gtk2 -Fu/home/pi/Development/FreePascal/lazarus/lcl/units/arm-linux/gtk2 -Fu/home/pi/Development/FreePascal/lazarus/lcl/units/arm-linux -Fu/home/pi/Development/FreePascal/lazarus/components/lazutils/lib/arm-linux -Fu/home/pi/Development/FreePascal/lazarus/packager/units/arm-linux -Fu/home/pi/Desktop/Lazarus_WiringPi_Projects/PhotoCell/ -FU/home/pi/Desktop/Lazarus_WiringPi_Projects/PhotoCell/lib/arm-linux/ -dLCL -dLCLgtk2 photocell.lpr"/>
+</CONFIG>
